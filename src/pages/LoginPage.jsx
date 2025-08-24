@@ -117,7 +117,7 @@ function LoginPage() {
             Bienvenue sur HabSaaS
           </h2>
           <p className="mt-2 text-neutral-600">
-            Connectez-vous à votre espace de gestion immobilière
+            Connectez-vous à votre espace de gestion 
           </p>
           <div className="mt-4 p-3 bg-blue-50 border border-blue-200 rounded-xl">
             <p className="text-sm text-blue-700">
@@ -146,7 +146,7 @@ function LoginPage() {
                   className={`input-field ${
                     errors.email ? 'border-danger-300 focus:ring-danger-500 focus:border-danger-500' : ''
                   }`}
-                  placeholder="demo@foncier.pro"
+                  placeholder="demo@test.pro"
                 />
                 {errors.email && (
                   <p className="mt-1 text-sm text-danger-600">{errors.email}</p>
