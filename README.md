@@ -5,11 +5,11 @@ Un template moderne et prêt à l'emploi pour créer une application SaaS dans l
 ## 📸 Aperçu de l'Interface
 
 ### Page de Connexion
-![Page de Connexion](login.png)
+![Page de Connexion](\public\login.png)
 *Interface de connexion moderne avec mode démo intégré*
 
 ### Tableau de Bord Principal
-![Tableau de Bord](home.png)
+![Tableau de Bord](\public\home.png)
 *Dashboard interactif avec statistiques et actions rapides*
 
 ## ✨ Fonctionnalités
